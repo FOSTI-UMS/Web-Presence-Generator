@@ -47,7 +47,7 @@ const QRCodeGenerator = () => {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen py-9">
+    <div className="flex flex-col items-center justify-center min-h-screen py-9 px-4">
       <div>
         <img src={logo} alt="Logo FOSTI UMS" className="w-36 h-36 mx-auto mb-4" />
       </div>
